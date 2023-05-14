@@ -305,7 +305,8 @@ static.nvidiagrid.net
 kb.objectrocket.com
 olark.com
 *.olark.com
-knrpc.olark.com
+okd.io
+*.okd.io
 help.one.com
 *.onesignal.com
 onesignal.com
@@ -350,7 +351,8 @@ python.org
 pythonhosted.org
 pytorch.org
 *.pytorch.org
-registry.access.redhat.com
+*.redhat.com
+redhat.com
 *.retroarch.com
 api.rlcdn.com
 idsync.rlcdn.com
