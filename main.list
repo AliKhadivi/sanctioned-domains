@@ -90,6 +90,8 @@ anchor.fm
 *.android.com
 android.com
 developer.android.com
+angular.io
+*.angular.io
 angularjs.org
 *.angularjs.org
 *.ansible.com
@@ -130,7 +132,10 @@ auth0.com
 *.auth0.com
 autom8n.com
 *.autom8n.com
-fp-vp.azureedge.net
+azure.com
+*.azure.com
+azureedge.net
+*.azureedge.net
 b4x.com
 *.b4x.com
 backup.ninja
