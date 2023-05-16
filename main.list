@@ -262,8 +262,6 @@ cloudflareinsights.com
 *.cloudflareinsights.com
 cloudflarestatus.com
 *.cloudflarestatus.com
-*.cloudfront.net
-cloudfront.net
 cloudfunctions.net
 *.cloudfunctions.net
 *.cloudinary.com
