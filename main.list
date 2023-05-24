@@ -259,6 +259,7 @@ cljdoc.org
 *.cljdoc.org
 cloudera.com
 *.cloudera.com
+*.cloudfront.net
 *.cloudflare.com
 cloudflare.com
 cloudflareinsights.com
@@ -274,7 +275,6 @@ cloudlinux.com
 amazon.co.uk
 *.geforce.co.uk
 nvidia.co.uk
-sa.bbc.co.uk
 cocalc.com
 *.cocalc.com
 *.codecanyon.net
