@@ -887,7 +887,6 @@ launchdarkly.com
 launchpad.net
 *.leafletjs.com
 leafletjs.com
-play.euw.leagueoflegends.com
 leagueoflegends.com
 *.leagueoflegends.com
 lenovo.com
@@ -958,12 +957,10 @@ milkshake.app
 *.milkshake.app
 *.min.io
 min.io
-*.min.io
 *.miro.com
 miro.com
 *.mit.edu
 mit.edu
-en.miui.com
 miui.com
 *.miui.com
 mixer.com
@@ -1011,12 +1008,10 @@ nativescript.org
 nbcuni.com
 *.netbeans.org
 netbeans.org
-app.netdata.cloud
 *.netdata.cloud
 *.netdna-ssl.com
 netdna-ssl.com
 netlify.com
-docs.netlify.com
 *.netlify.com
 *.newrelic.com
 newrelic.com
@@ -1096,14 +1091,12 @@ onpage.org
 *.onpage.org
 *.openai.com
 openai.com
-chat.openai.com
 opencontainers.org
 *.opencontainers.org
 *.opennebula.io
 opennebula.io
 *.opensea.io
 opensea.io
-cloud.openshift.com
 *.openshift.com
 openshift.com
 openstreetmap.org
@@ -1159,7 +1152,6 @@ pendo.io
 *.pendo.io
 pepipost.com
 *.pepipost.com
-smtp.pepipost.com
 percona.com
 *.percona.com
 perfectmoney.com
@@ -1178,6 +1170,8 @@ via.placeholder.com
 *.placeit.net
 placeit.net
 nicev2.placeit.net
+pkg.dev
+*.pkg.dev
 platform9.com
 *.platform9.com
 *.playstation.net
