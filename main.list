@@ -1666,3 +1666,5 @@ zoho.com
 zoom.us
 s3browser.com
 *.s3browser.com
+helm.sh
+*.helm.sh
