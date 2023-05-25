@@ -590,11 +590,8 @@ ghcr.io
 gitbook.com
 *.gitbook.com
 *.gitconnected.com
-github.io
-*.github.io
 *.github.community
 github.community
-git.githubusercontent.com
 *.githubusercontent.com
 githubusercontent.com
 *.gitlab.com
