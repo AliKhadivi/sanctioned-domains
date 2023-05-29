@@ -27,6 +27,8 @@ adnxs.com
 adobe.com
 *.adobe.io
 adobe.io
+*.adobelogin.com
+adobelogin.com
 *.adobeexchange.com
 adobeexchange.com
 *.adobelogin.com
