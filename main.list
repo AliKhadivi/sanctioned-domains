@@ -25,6 +25,8 @@ secure.adnxs.com
 adnxs.com
 *.adobe.com
 adobe.com
+*.adobe.io
+adobe.io
 *.adobeexchange.com
 adobeexchange.com
 *.adobelogin.com
