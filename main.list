@@ -1673,3 +1673,5 @@ jwt.io
 *.jwt.io
 badssl.com
 *.badssl.com
+firefox.com
+*.firefox.com
