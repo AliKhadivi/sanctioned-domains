@@ -1677,3 +1677,5 @@ badssl.com
 *.badssl.com
 firefox.com
 *.firefox.com
+elevenlabs.io
+*.elevenlabs.io
