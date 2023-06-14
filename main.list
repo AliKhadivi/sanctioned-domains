@@ -1682,3 +1682,7 @@ elevenlabs.io
 ai.google.com
 *.ai.google.com
 labs.google.com
+workspace.google.com
+*.workspace.google.com
+sandbox.google.com
+*.sandbox.google.com
