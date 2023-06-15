@@ -1686,3 +1686,5 @@ workspace.google.com
 *.workspace.google.com
 sandbox.google.com
 *.sandbox.google.com
+goo.gl
+*.goo.gl
