@@ -1688,3 +1688,5 @@ sandbox.google.com
 *.sandbox.google.com
 goo.gl
 *.goo.gl
+googleblog.com
+*.googleblog.com
