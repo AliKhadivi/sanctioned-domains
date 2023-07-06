@@ -1717,3 +1717,5 @@ electron.build
 *.electron.build
 dev.to
 *.dev.to
+videojs.com
+*.videojs.com
