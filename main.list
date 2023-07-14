@@ -1718,3 +1718,5 @@ electron.build
 dev.to
 *.dev.to
 jetbra.in
+cloudconvert.com
+*.cloudconvert.com
