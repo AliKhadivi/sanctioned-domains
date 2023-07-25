@@ -981,6 +981,8 @@ moz.com
 *.moz.com
 *.mozilla.org
 mozilla.org
+*.mdn.mozilla.net
+mdn.mozilla.net
 cdn.mxpnl.com
 mxtoolbox.com
 *.mxtoolbox.com
