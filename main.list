@@ -1724,3 +1724,5 @@ cloudconvert.com
 *.cloudconvert.com
 gradio.app
 *.gradio.app
+netlify.app
+*.netlify.app
