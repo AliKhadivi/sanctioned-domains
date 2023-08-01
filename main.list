@@ -261,6 +261,7 @@ cljdoc.org
 *.cljdoc.org
 cloudera.com
 *.cloudera.com
+*.cloudfront.net
 *.cloudflare.com
 cloudflare.com
 cloudflareinsights.com
