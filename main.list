@@ -463,7 +463,6 @@ elements.envato.com
 envato.com
 *.envato-static.com
 envato-static.com
-public-assets.envato-static.com
 *.envatousercontent.com
 envatousercontent.com
 blog.envoyproxy.io
@@ -1043,7 +1042,6 @@ nopixel.net
 *.nopixel.net
 norton.com
 *.norton.com
-api.nowpayments.io
 *.nowpayments.io
 nowpayments.io
 npm.org
@@ -1109,8 +1107,6 @@ openx.net
 cdn-pci.optimizely.com
 optimizely.com
 *.optimizely.com
-download.oracle.com
-edelivery.oracle.com
 oracle.com
 *.oracle.com
 *.origin.com
@@ -1451,14 +1447,12 @@ techtarget.com
 *.tecmint.com
 tecmint.com
 speedtest.tele2.net
-docs.telerik.com
 telerik.com
 *.telerik.com
 telestax.com
 *.telestax.com
 tensorflow.org
 *.tensorflow.org
-updates.theme-fusion.com
 *.theme-fusion.com
 theme-fusion.com
 themeforest.net
@@ -1497,7 +1491,6 @@ api.treepodia.com
 trello.com
 *.trello.com
 trellocdn.com
-a.trellocdn.com
 *.trellocdn.com
 partners.tremorhub.com
 tricksinfo.net
