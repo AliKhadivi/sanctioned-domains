@@ -25,7 +25,6 @@ addthis.com
 *.addthis.com
 apps.admob.com
 *.adnxs.com
-secure.adnxs.com
 adnxs.com
 *.adobe.com
 adobe.com
@@ -1188,6 +1187,10 @@ portworx.com
 postman.com
 *.postman.co
 postman.co
+getpostman.com
+*.getpostman.com
+pstmn.io
+*.pstmn.io
 *.powerpackelements.com
 powerpackelements.com
 *.prestashop.com
