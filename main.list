@@ -1729,3 +1729,5 @@ gradio.app
 netlify.app
 *.netlify.app
 dl-cdn.alpinelinux.org
+hashicorp.com
+*.hashicorp.com
