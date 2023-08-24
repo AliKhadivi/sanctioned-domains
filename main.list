@@ -1730,3 +1730,5 @@ netlify.app
 dl-cdn.alpinelinux.org
 hashicorp.com
 *.hashicorp.com
+truenas.com
+*.truenas.com
