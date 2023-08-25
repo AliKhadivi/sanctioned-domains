@@ -1732,5 +1732,7 @@ hashicorp.com
 *.hashicorp.com
 truenas.com
 *.truenas.com
+ixsystems.com
+*.ixsystems.com
 githubstatus.com
 *.githubstatus.com
