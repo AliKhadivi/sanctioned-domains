@@ -1746,4 +1746,5 @@ idx.dev
 *.idx.dev
 fluentd.org
 *.fluentd.org
-
+ossec.net
+*.ossec.net
