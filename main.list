@@ -1748,3 +1748,5 @@ fluentd.org
 *.fluentd.org
 ossec.net
 *.ossec.net
+splunk.com
+*.splunk.com
