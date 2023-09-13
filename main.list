@@ -1750,3 +1750,11 @@ ossec.net
 *.ossec.net
 splunk.com
 *.splunk.com
+cvedetails.com
+*.cvedetails.com
+westerndigital.com
+*.westerndigital.com
+adata.com
+*.adata.com
+
+
