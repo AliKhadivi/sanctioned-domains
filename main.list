@@ -1757,4 +1757,12 @@ westerndigital.com
 adata.com
 *.adata.com
 pkgs.k8s.io
+launchdarkly.com
+*.launchdarkly.com
+you.com
+*.you.com
+stytch.com
+*.stytch.com
+appsflyer.com
+*.appsflyer.com
 
