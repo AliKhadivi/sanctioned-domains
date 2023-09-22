@@ -1765,4 +1765,5 @@ stytch.com
 *.stytch.com
 appsflyer.com
 *.appsflyer.com
-*.ecr.aws
+public.ecr.aws
+gallery.ecr.aws
