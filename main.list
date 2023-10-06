@@ -665,6 +665,7 @@ clients3.google.com
 classroom.google.com
 analytics.google.com
 colab.research.google.com
+colab.google
 *.dl.google.com
 fiber.google.com
 *.clients1.google.com
