@@ -1768,3 +1768,7 @@ appsflyer.com
 public.ecr.aws
 bing.com
 *.bing.com
+ultralytics.com
+*.ultralytics.com
+roboflow.com
+*.roboflow.com
