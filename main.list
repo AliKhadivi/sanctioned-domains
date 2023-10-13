@@ -1772,3 +1772,5 @@ ultralytics.com
 *.ultralytics.com
 roboflow.com
 *.roboflow.com
+huggingface.co
+*.huggingface.co
