@@ -659,6 +659,7 @@ surveys.google.com
 code.google.com
 clients2.google.com
 firebase.google.com
+*.firebase.google.com
 ai.google.com
 *.clients3.google.com
 clients3.google.com
