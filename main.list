@@ -1778,3 +1778,5 @@ huggingface.co
 gvt1.com
 *.gvt1.com
 stable.api.dartpad.dev
+rockylinux.org
+*.rockylinux.org
