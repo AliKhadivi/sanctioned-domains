@@ -1821,3 +1821,5 @@ anaconda.org
 *.anaconda.org
 conda.io
 *.conda.io
+sketchfab.com
+*.sketchfab.com
