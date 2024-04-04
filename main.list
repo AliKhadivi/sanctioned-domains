@@ -1210,8 +1210,6 @@ pwc.ca
 pypi.org
 *.python.org
 python.org
-*.pythonhosted.org
-pythonhosted.org
 pytorch.org
 *.pytorch.org
 *.qt.io
