@@ -1864,3 +1864,5 @@ docker.io
 *.docker.io
 openssl.com
 *.openssl.com
+*.pythonhosted.org
+pythonhosted.org
