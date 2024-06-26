@@ -1862,7 +1862,7 @@ fastly.net
 *.fastly.net
 docker.io
 *.docker.io
-openssl.com
-*.openssl.com
+openssl.org
+*.openssl.org
 pythonhosted.org
 *.pythonhosted.org
