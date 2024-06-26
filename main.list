@@ -1858,11 +1858,11 @@ radix-ui.com
 *.radix-ui.com
 antal.ai
 *.antal.ai
-*.fastly.net
 fastly.net
+*.fastly.net
 docker.io
 *.docker.io
 openssl.com
 *.openssl.com
-*.pythonhosted.org
 pythonhosted.org
+*.pythonhosted.org
