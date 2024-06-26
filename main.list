@@ -1858,3 +1858,7 @@ radix-ui.com
 *.radix-ui.com
 antal.ai
 *.antal.ai
+pythonhosted.org
+*.pythonhosted.org
+openssl.org
+*.openssl.org
