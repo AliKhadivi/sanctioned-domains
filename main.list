@@ -1862,3 +1862,5 @@ pythonhosted.org
 *.pythonhosted.org
 openssl.org
 *.openssl.org
+angular.dev
+*.angular.dev
