@@ -889,6 +889,8 @@ launchdarkly.com
 *.launchdarkly.com
 *.launchpad.net
 launchpad.net
+launchpadcontent.net
+*.launchpadcontent.net
 *.leafletjs.com
 leafletjs.com
 leagueoflegends.com
