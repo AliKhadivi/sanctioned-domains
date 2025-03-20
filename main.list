@@ -90,9 +90,6 @@ amazonaws.com
 *.amazonaws.com
 *.amazonvideo.com
 amazonvideo.com
-ollama.com
-*.ollama.com
-
 amazoon.com
 *.amazoon.com
 amd.com
@@ -1898,3 +1895,6 @@ sora.com
 *.sora.com
 dockerstatic.com
 *.dockerstatic.com
+ollama.com
+*.ollama.com
+*.cloudflarestorage.com
