@@ -90,6 +90,9 @@ amazonaws.com
 *.amazonaws.com
 *.amazonvideo.com
 amazonvideo.com
+ollama.com
+*.ollama.com
+
 amazoon.com
 *.amazoon.com
 amd.com
