@@ -1906,3 +1906,5 @@ centos.org
 *.centos.org
 fedoraproject.org
 *.fedoraproject.org
+githubcopilot.com
+*.githubcopilot.com
