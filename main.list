@@ -781,8 +781,6 @@ ibm.com
 icloud.com
 id5-sync.com
 *.id5-sync.com
-*.ifconfig.co
-ifconfig.co
 *.ilovepdf.com
 ilovepdf.com
 imdb.com
@@ -805,10 +803,6 @@ internetdownloadmanager.com
 invis.io
 *.invisionapp.com
 invisionapp.com
-ip2location.com
-*.ip2location.com
-*.ipinfo.io
-ipinfo.io
 cdn.ispsystem.com
 itsfoss.com
 *.itsfoss.com
@@ -997,10 +991,6 @@ mycloud.com
 *.mycloud.com
 myfonts.net
 *.myfonts.net
-*.myip.nl
-*.myip.com
-myip.nl
-myip.com
 mysql.com
 *.mysql.com
 dev.mysql.com
@@ -1644,8 +1634,6 @@ yarnpkg.com
 yithemes.com
 *.yoast.com
 yoast.com
-*.yougetsignal.com
-yougetsignal.com
 *.youidraw.com
 zabbix.com
 *.zabbix.com
