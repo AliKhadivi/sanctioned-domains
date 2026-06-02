@@ -597,7 +597,12 @@ gitbook.com
 github.community
 *.githubusercontent.com
 githubusercontent.com
-*.gitlab.com
+support.gitlab.com
+registry.gitlab.com
+about.gitlab.com
+docs.gitlab.com
+forum.gitlab.com
+
 *.gitlab.io
 gitlab.io
 gitlab-static.net
