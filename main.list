@@ -603,10 +603,14 @@ about.gitlab.com
 docs.gitlab.com
 forum.gitlab.com
 
+#gitlab.com
+#*.gitlab.com
 *.gitlab.io
 gitlab.io
-gitlab-static.net
-*.gitlab-static.net
+#gitlab-static.net
+#*.gitlab-static.net
+
+
 *.gitlag.com
 gitlag.com
 *.gitpod.io
