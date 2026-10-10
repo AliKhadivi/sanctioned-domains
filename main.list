@@ -1927,5 +1927,6 @@ honeycomb.io
 *.honeycomb.io
 dartlang.org
 *.dartlang.org
-
+pub.dev
+*.pub.dev
 
